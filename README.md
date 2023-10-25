@@ -14,17 +14,18 @@ The Console To-Do List Application is a command-line tool designed to help users
 
 1. Clone the repository to your local device
 2. https://github.com/Nitishpatil69/Coding_Raja_Technologies_Internship.git
+
    cd Coding_Raja_Technologies_Internship/To_do_list_application
 
-3. Install any required dependencies (if applicable). This project may not have external dependencies.
+4. Install any required dependencies (if applicable). This project may not have external dependencies.
 
-4. Run the To-Do List Application:
+5. Run the To-Do List Application:
 
    
    python To_do_list_application.py
    
 
-5. Follow the on-screen prompts to add, list, update, and remove tasks.
+6. Follow the on-screen prompts to add, list, update, and remove tasks.
 
 ## 2. Personal Budget Tracker
 
