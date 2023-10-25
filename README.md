@@ -1,4 +1,4 @@
-# Coding_Raja_Technologies_InternshipCertainly, here are the instructions for running both projects in your GitHub repository:
+# Coding_Raja_Technologies_Internship
 
 # Internship Tasks at Coding Raja Technologies
 
